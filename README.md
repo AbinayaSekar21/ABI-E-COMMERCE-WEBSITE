@@ -1,2 +1,6 @@
 # ABI-E-COMMERCE-WEBSITE
-Its ia a simple E-Commerce website.It contains a basic concepts of HTMl,CSS and Javascript.
+A simple E-Commerce Website using HTML,CSS and Javascript.
+A wesbite consists a Header With logo ABI.It consists a Home webpage with impressive background Image. 
+It contains a featured products for summer dress page.It contains a free shipping,online shopping,24/7 support etc... 
+It contains a banner page and newsletter page. 
+Finally this webesite contains a footer page and consists a logo,address,App download method,Payment method.
